@@ -1,0 +1,12 @@
+//scss
+.sunburst-chart-container {
+	width: 100%;
+  text-align: center;
+  svg {
+    overflow: visible;
+  }
+
+  .legend-container {
+    margin-top: 25px;
+  }
+}
